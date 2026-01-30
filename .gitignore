@@ -1,0 +1,25 @@
+# Build / simulation artifacts
+*.vpd
+*.vcd
+*.fsdb
+*.log
+*.key
+simv
+simv.daidir/
+csrc/
+ucli.key
+DVEfiles/
+verdiLog/
+*.db
+*.tcl
+*.cov
+*.ucdb
+*.wlf
+
+# Editor/OS
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
